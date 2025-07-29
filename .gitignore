@@ -1,0 +1,38 @@
+# Binários compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Diretório de build
+/build/
+bin/
+dist/
+
+# Cache do Go
+*.mod
+*.sum
+vendor/
+.gocache/
+.go-build/
+
+# Diretórios de testes
+coverage.*
+*.coverprofile
+
+# Arquivos de log
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	"pizzaria/internal/models"
+	"pizzaria/pizza_project/internal/models"
 )
 
 var Pizzas []models.Pizza

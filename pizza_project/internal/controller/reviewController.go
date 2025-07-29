@@ -3,9 +3,9 @@ package controller
 import (
 	"fmt"
 	"net/http"
-	"pizzaria/internal/data"
-	"pizzaria/internal/models"
-	"pizzaria/internal/service"
+	"pizzaria/pizza_project/internal/data"
+	"pizzaria/pizza_project/internal/models"
+	"pizzaria/pizza_project/internal/service"
 	"strconv"
 
 	"github.com/gin-gonic/gin"

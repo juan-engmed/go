@@ -2,7 +2,7 @@ package service
 
 import (
 	"errors"
-	"pizzaria/internal/models"
+	"pizzaria/pizza_project/internal/models"
 )
 
 func ValidateRating(review *models.Review) error {

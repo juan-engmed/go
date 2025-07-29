@@ -1,8 +1,8 @@
 package main
 
 import (
-	"pizzaria/internal/data"
-	"pizzaria/internal/controller"
+	"pizzaria/pizza_project/internal/data"
+	"pizzaria/pizza_project/internal/controller"
 
 	"github.com/gin-gonic/gin"
 )
